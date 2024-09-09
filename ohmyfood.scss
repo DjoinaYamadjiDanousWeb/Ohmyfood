@@ -5,7 +5,7 @@
 *, ::before, ::after {
   box-sizing: border-box;
 }
-
+/*Style general*/
 body {
   margin: 0px;
   font-family: "Roboto",sans-serif;
@@ -33,11 +33,13 @@ body {
   }
 }
 
+
+
 main {
   padding: 0 1rem;
   flex-wrap: wrap;
 }
-
+/*Il s'agit de notre barre de navigation*/
 header {
   font-family: "shrikhand", sans-serif;
   text-align: center;
